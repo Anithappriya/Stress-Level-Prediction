@@ -128,6 +128,11 @@ Based on the predicted stress level, the system provides appropriate feedback an
 
 ---
 
+## Model Accuracy Comparison
+
+![Accuracy Graph](images/accuracy_graph.png)
+
+
 ## Conclusion
 
 This project demonstrates how machine learning techniques can be used to analyze physiological and sleep-related factors to predict stress levels. By comparing multiple classification algorithms, the project identifies suitable models for stress prediction and provides practical insights for health monitoring applications.
