@@ -1,4 +1,4 @@
-# Stress Level Prediction using Machine Learning
+# Stress Level Prediction using Machine Learning Algorithms
 
 ## Project Overview
 
